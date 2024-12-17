@@ -1,6 +1,7 @@
+<h2>Eric Chen </h2>
+<p>Student at from Northeastern University , currently living in <b>Boston, MA</b>.</p>
 
-</br> I'm Eric, Student at from Northeastern University , currently living in <b>Boston, MA</b>.
-<h3>Things I code with</h3>
+<h2>Things I code with</h2>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -19,5 +20,6 @@
   <img alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
-<h1>Leetcode Stats</h1>
+<h2>Leetcode Stats</h2>
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/echen9870)
