@@ -32,7 +32,7 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/echen9870)
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=echen9870)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=echen9870&theme=dark)
 
 <h2> Let's Connect</h2>
 <p>
