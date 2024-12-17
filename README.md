@@ -19,4 +19,5 @@
   <img alt="GCP" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
+<h1>Leetcode Stats</h1>
 ![Leetcode Stats](https://leetcard.jacoblin.cool/echen9870)
