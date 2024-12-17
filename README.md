@@ -1,5 +1,8 @@
 <h2>Eric Chen </h2>
-<p>Student at from Northeastern University , currently living in <b>Boston, MA</b>.</p>
+
+<p>Student at from Northeastern University, currently living in <b>Boston, MA</b>.</p>
+
+![image](https://github.com/user-attachments/assets/512e0a30-2d1d-4963-9a43-13d89f0dbdeb)
 
 <h2>Things I Code With</h2>
 <p>
@@ -25,9 +28,11 @@
 
 </p>
 
-<h2>Leetcode Stats</h2>
+<h2>Leetcode and Codeforces Stats</h2>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/echen9870)
+
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=echen9870)
 
 <h2> Let's Connect</h2>
 <p>
