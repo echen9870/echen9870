@@ -30,7 +30,7 @@
 
 <h2>Leetcode and Codeforces Stats</h2>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/echen9870)
+![Leetcode Stats](https://leetcard.jacoblin.cool/echen9870?ext=contest)
 
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=echen9870&theme=dark)
 
